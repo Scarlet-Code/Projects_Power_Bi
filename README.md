@@ -2,8 +2,8 @@
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- [Dashboard Financeiro]()
-- [Dashboard de Vendas]()
+- [Dashboard Financeiro](https://github.com/Scarlet-Code/Projects_Power_Bi/tree/main/Dashbord%20Financeiro)
+- [Dashboard de Vendas](https://github.com/Scarlet-Code/Projects_Power_Bi/tree/main/Dashbord%20Vendas)
 
   ### Dashboard Financeiro
 
