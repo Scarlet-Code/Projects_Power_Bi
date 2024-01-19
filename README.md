@@ -4,6 +4,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 - [Dashboard Financeiro](https://github.com/Scarlet-Code/Projects_Power_Bi/tree/main/Dashbord%20Financeiro)
 - [Dashboard de Vendas](https://github.com/Scarlet-Code/Projects_Power_Bi/tree/main/Dashbord%20Vendas)
+- [Dashboard de Vendas 2]()
 
   ### Dashboard Financeiro
 
@@ -29,3 +30,6 @@ Colunas criadas a partir dos dados:
 - Continente
 
 **Quantidade de dados: 203.883** 
+
+  ### Dasboard de Vendas 2
+  
